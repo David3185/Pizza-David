@@ -1,0 +1,14 @@
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title img {
+padding: 10px;
+}
+
+.navbar li {
+    display: inline;
+    justify-content: center;
+}
