@@ -2,13 +2,38 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
 }
 
 .title img {
 padding: 10px;
 }
 
-.navbar li {
+.navbar ul {
+    text-align: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 30px;
+}
+
+.navbar ul li {
     display: inline;
-    justify-content: center;
+    padding: 50px;
+}
+
+section img {
+    width: 100%;
+}
+
+section {
+    display: flex;
+}
+
+section div {
+width: 50%;
+}
+
+.text {
+    text-align: center;
+    
 }
